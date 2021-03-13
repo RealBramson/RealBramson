@@ -2,7 +2,7 @@
 
 <h3 align="center">ItsK4P</h3>
 
-- ❌ I’m currently working on **https://stickers.wumpuslabs.repl.co™**
+- ❌ I’m currently working on **https://stickers.wumpuslabs.repl.co**
 
 - ❌ I’m currently learning **Vue.js**
 
